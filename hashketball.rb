@@ -16,7 +16,7 @@ def game_hash
           slam_dunks: 1
            },
           { player_name: "Reggie Evans",
-          player_number: 30,
+          number: 30,
           shoe: 14,
           points: 12,
           rebounds: 12,
@@ -83,7 +83,7 @@ def game_hash
           slam_dunks: 10
            },
           { player_name: "DeSagna Diop",
-          player_number: 2,
+          number: 2,
           shoe: 14,
           points: 24,
           rebounds: 12,
